@@ -1,0 +1,9 @@
+.edge {
+  position: absolute;
+  height: 2px;
+  width: 0;
+  background-color: black;
+  transform-origin: 0;
+  z-index: 1;
+  cursor: pointer;
+}
